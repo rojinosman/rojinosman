@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rojinosman
-- 👀 I’m interested in everything!!
-- 🌱 I’m currently learning how to manage my time better :)
+- 👀 I’m interested in software development!!
 - 📫 How to reach me rojinosman1988@gmail.com
 - 😄 Pronouns: she/her
 
